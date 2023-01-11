@@ -15,7 +15,7 @@
     },
     "type": "library",
     "require": {
-        "php": ">=7.2",
+        "php": ">=7.4",
         "ext-dom": "*",
         "greenter/xmldsig": "^5.0",
         "greenter/core": "^4.4",
@@ -23,7 +23,7 @@
         "greenter/xml": "^4.4"
     },
     "require-dev": {
-        "phpunit/phpunit": "^8"
+        "phpunit/phpunit": "^9"
     },
     "autoload": {
         "psr-4": {
